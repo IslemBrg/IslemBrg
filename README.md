@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Stage..&hearts;++;Self-taught+FullStack+Developer;Saftware+Engineering+Student;CTF+and+game+development+Beginner;Active+Learner/Researcher;Love+to+learn+new+stuff..<3"></a>
 </p>
-<h4 align="center">a freelance developer ans also a software engineering and information systems students, see my <a href="https://github.com/IslemBrg/IslemBrg/files/11008980/CV.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">a freelance developer ans also a software engineering and information systems students, see my <a href="https://islembrg.github.io" target="_blank">resume</a> for more</h4>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">

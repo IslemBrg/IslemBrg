@@ -7,7 +7,7 @@
 <h4 align="center">a freelance developer ans also a software engineering and information systems students, see my <a href="https://islembrg.github.io" target="_blank">resume</a> for more</h4>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://github.com/IslemBrg">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -190,4 +190,4 @@
 
 <br>
 
-Last Edited on: 03/18/2023
+Last Edited on: 19/03/2023

@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Islem Bargaoui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Stage..&hearts;++;Self-taught+FullStack+Developer;Saftware+Engineering+Student;CTF+Beginner;Active+Learner/Researcher;Love+to+learn+new+stuff..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Stage..&hearts;++;Self-taught+FullStack+Developer;Saftware+Engineering+Student;CTF+and+game+development+Beginner;Active+Learner/Researcher;Love+to+learn+new+stuff..<3"></a>
 </p>
 <h4 align="center">a freelance developer ans also a software engineering and information systems students, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 
@@ -66,6 +66,13 @@
    ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 <br>
+	
+- **Game Development**:
+
+    ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+    ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
+		
+<br>
 
 - **Cloud Hosting**:
 
@@ -87,7 +94,7 @@
     ![Snyk](https://img.shields.io/badge/Snyk-4C4A73.svg?style=for-the-badge&logo=snyk&logoColor=white)
 
 <br>
-
+	
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)  
@@ -107,6 +114,9 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=islembrg&label=Visitors&color=a62b50&style=flat" alt="IslemBrg" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islembrg&" alt="IslemBrg" /></a> </p>
+
+
+
 
 <div align="center">
 

@@ -23,6 +23,7 @@
 
 - A passionate Self-taught FullStack developer
 - Playing CTF's at spare time
+- creating pc games from time to time
 - Currently learning Web Development by Self
 - I’m currently working as a fullStack Web Developpment intern at <a href="https://www.codecooperation.com/">Code Cooperation</a>
 
